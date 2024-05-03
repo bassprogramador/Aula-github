@@ -8,5 +8,6 @@
 <body>
     <h1>Primeiro Título!</h1>
     <p>Primeiro parágrafo do site </p>
+    <a href="https://www.google.com/">Ir para o google</a>
 </body>
 </html>
