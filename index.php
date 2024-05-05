@@ -15,5 +15,6 @@
             Está foto é uma Margarida vermelha
         </figcaption>
     </picture>
+    <p>adicionei mais outro parágrafo</p>
 </body>
 </html>
