@@ -16,5 +16,6 @@
         </figcaption>
     </picture>
     <p>adicionei mais outro parágrafo</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores veritatis nisi consectetur assumenda natus, aut error! Ad numquam, laborum accusamus soluta mollitia expedita id illo deleniti repellat possimus architecto eveniet.</p>
 </body>
 </html>
